@@ -1,4 +1,5 @@
 🧩 Site E-commerce - Vente de Cartes Pokémon
+
 Bienvenue sur mon projet de site e-commerce dédié à la vente de cartes Pokémon ! Ce site web a été entièrement développé en HTML/CSS et PHP, et propose une plateforme 100% fonctionnelle permettant d'acheter, vendre et gérer un stock de cartes Pokémon.
 
 🚀 Fonctionnalités principales
