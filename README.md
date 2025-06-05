@@ -2,7 +2,7 @@
 
 Bienvenue sur mon projet de site e-commerce dédié à la vente de cartes Pokémon ! Ce site web a été entièrement développé en HTML/CSS et PHP, et propose une plateforme 100% fonctionnelle permettant d'acheter, vendre et gérer un stock de cartes Pokémon.
 
-🚀 Fonctionnalités principales
+🚀 Fonctionnalités principales :
 🛒 Catalogue de cartes Pokémon avec visuels, descriptions, prix, rareté, etc.
 
 📦 Gestion complète du stock : ajout, suppression, modification des cartes.
@@ -15,7 +15,7 @@ Bienvenue sur mon projet de site e-commerce dédié à la vente de cartes Pokém
 
 💰 Affichage des prix dynamiques et mise à jour automatique du stock après achat.
 
-🛠️ Technologies utilisées
+🛠️ Technologies utilisées :
 
 Frontend : HTML5, CSS3
 
@@ -25,7 +25,7 @@ Base de données : MySQL
 
 Autres : XAMPP/WAMP pour le serveur local
 
-🔧 Installation
+🔧 Installation :
 Cloner le dépôt : https://github.com/Amine-Cyb01/Site-E-commerce-Carte-Pokemon-
 
 Lancer un serveur local (XAMPP/WAMP)
@@ -36,11 +36,11 @@ Modifier les informations de connexion à la BDD si nécessaire
 
 Ouvrir index.php dans le navigateur via localhost
 
-📌 À propos
+📌 À propos :
 Ce projet a été réalisé de A à Z par moi-même et un ami dans un cadre de projet scolaire, dans le but d'apprendre et de maîtriser le développement d'un site e-commerce complet avec gestion dynamique de contenu.
 Il est 100% fonctionnel, extensible et peut facilement évoluer (ajout de système de paiement réel, amélioration du design, etc.).
 
-💡 Améliorations futures
+💡 Améliorations futures :
 Intégration d’un système de paiement en ligne (Stripe, PayPal)
 
 Responsive design mobile
